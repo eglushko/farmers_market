@@ -1,0 +1,82 @@
+[
+    {
+      "id": "1e780016-94ef-4063-9fbb-fbafbabb636e",
+      "name": "Crate of Corn",
+      "description": "Shucked full of love and TLC! You're gonna want a whole bunch of them!",
+      "image": "../images/crate-of-corn.jpg",
+      "price": 25,
+      "rating": 4.8,
+      "releated": [],
+      "isAvailable": true
+    },
+    {
+      "id": "1a264ead-e650-41f1-aa96-2b6efafa2011",
+      "name": "Crate of Grapes",
+      "description": "The sweetest darn grapes you ever did taste!",
+      "image": "../images/crate-of-grapes.jpg",
+      "price": 20,
+      "rating": 4.7,
+      "releated": [],
+      "isAvailable": true
+    },
+    {
+      "id": "a712a0b4-1243-4890-9ca4-59778a7bb651",
+      "name": "Grape Jam",
+      "description": "Crushed by hoof, our sweetest darn grapes made into a jam.",
+      "image": "../images/grape-jam.jpg",
+      "price": 5,
+      "rating": 4.8,
+      "releated": [],
+      "isAvailable": true
+    },
+    {
+      "id": "b0cc414e-7a03-428c-81ae-5c472ca11cdc",
+      "name": "Crate of Zap Apples",
+      "description": "Lighting infused apples.",
+      "image": "../images/crate-of-zap-apples.jpg",
+      "price": 49.99,
+      "rating": 4.2,
+      "releated": [],
+      "isAvailable": true
+    },
+    {
+      "id": "d05ae50e-2918-4b8e-a006-ed83e9bdc8c8",
+      "name": "Zap Apple Jam",
+      "description": "Lighting infused apples, crushed by hoof into a jam. Ain't that someth'n else!",
+      "image": "../images/zap-apple-jam.jpg",
+      "price": 7,
+      "rating": 5,
+      "releated": [],
+      "isAvailable": true
+    },
+    {
+      "id": "6dbf5cb7-828a-4375-8796-40d2cdfa532d",
+      "name": "Barrel of Apple Cider",
+      "description": "Apple cider season is here! Don't wait in line with no guarantee that we won't run out, get your online orders in today!",
+      "image": "../images/barrel-of-cider.jpg",
+      "price": 27.98,
+      "rating": 4.8,
+      "releated": [],
+      "isAvailable": true
+    },
+    {
+      "id": "f19f13db-7e25-431b-9390-452c6fbdd3e6",
+      "name": "Crate of Carrots",
+      "description": "Who doesn't like a delicious carrot? ",
+      "image": "../images/crate-of-carrots.jpg",
+      "price": 12.2,
+      "rating": 4.8,
+      "releated": [],
+      "isAvailable": true
+    },
+    {
+      "id": "b85be051-5faf-452d-bb4b-1b44d9440a9e",
+      "name": "Honey Jar",
+      "description": "Made by bees - nice ones mostly.",
+      "image": "../images/honey-jar.jpg",
+      "price": 3,
+      "rating": 3.3,
+      "releated": [],
+      "isAvailable": false
+    }
+]
