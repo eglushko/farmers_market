@@ -15,7 +15,7 @@ And if there's time, the following features would be great to ship in the first 
 * Add items to a shopping cart 🛒
 * Place an order
 
-This application is currently deployed here: [Sweet Apple Acres Application](http://3.227.8.130/sweet_apple_acres/)
+This application is currently deployed here: [Farmers Market Application](http://3.227.8.130/farmers_market/)
 
 
 
